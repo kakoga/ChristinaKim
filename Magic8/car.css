@@ -1,0 +1,43 @@
+body {
+  background-color: black;
+  background-image: url(/Users/learn/Desktop/ChristinaKim/Magic8/sparkle.gif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;*/
+  color: white;
+  text-align: center;
+}
+html {
+  height: 100%;
+}
+header {
+  background-color: #black;
+}
+
+#pat {
+  position: absolute;
+  float: left;
+
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h2 {
+    padding-bottom: 10px;
+    padding-top: 50px;
+    color: white;
+
+}
+
+h3 {
+  padding-bottom: 15px;
+  color: white;
+
+}
+
+p {
+  color: white;
+}
